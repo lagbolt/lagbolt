@@ -4,7 +4,7 @@ I was born in Australia a long time ago.
 
 I wrote my first computer program -- in Fortran -- in 1968.
 
-I came to the United States for graduate school, and stayed.  I have the first PhD in Computer Science granted by the University of Rochester.  As an undergraduate, I assembled a card catalog out of 3x5 index cards; as a graduate student, I programmed a journal article index on an IBM mainframe.  After a career in the software industry that included equal parts boom and bust, I retired to Las Vegas, where I pursues an interest in public library cataloging, including cataloging models, metadata quality and OPAC UX/UI.
+I came to the United States for graduate school, and stayed.  I have the first PhD in Computer Science granted by the University of Rochester.  As an undergraduate, I assembled a card catalog out of 3x5 index cards; as a graduate student, I programmed a journal article index on an IBM mainframe.  After a career in the software industry that included equal parts boom and bust, I retired to Las Vegas, where I pursue an interest in public library cataloging, including cataloging models, metadata quality and OPAC UX/UI.
 
 #### What is here on GitHub?
 
