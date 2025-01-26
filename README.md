@@ -15,8 +15,10 @@ I have three public repositories on GitHub:
 
 #### Where else am I on the internet?
 
-* Twitter:  https://twitter.com/lagbolt
+* Substack:  https://lagbolt.substack.com
+* Bluesky:  https://bsky.app/profile/lagbolt.bsky.social
 * Mastodon:  https://glammr.us/web/@lagbolt
+* Twitter:  https://twitter.com/lagbolt
 * Linkedin:  https://www.linkedin.com/in/graemewilliams/
 * Occassional blog:  https://lagbolt.wordpress.com/
 
